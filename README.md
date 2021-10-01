@@ -1,10 +1,7 @@
-# 21test-01-LearningGithub
+# Hola soy Oier,
 
-## Entornos de desarrollo
- 
-Esto es una _cursiva_ y esto es negrita **así**.
+## Estudiante de Cuatrovientos
 
-![ITC_Cuatrovientos](http://www.cuatrovientos.org/wp-content/uploads/2021/09/IMG_20210929_131701-845x684.jpg)
+Estudio en **1º de DAM** y este trabajo es para la asignatura de _Entornos de desarrollo_.
 
-
-Mi primer proyecto Github
+![LOGO DE MI CENTRO](./img/logo-cuatrovientos-2-1.png)

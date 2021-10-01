@@ -4,4 +4,4 @@
 
 Estudio en **1º de DAM** y este trabajo es para la asignatura de _Entornos de desarrollo_.
 
-![LOGO DE MI CENTRO](http://www.cuatrovientos.org/wp-content/uploads/2019/09/logo-cuatrovientos-light-2-300x55.png)
+![LOGO DE MI CENTRO](./img/logo-cuatrovientos-2-1.png)
